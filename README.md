@@ -10,7 +10,7 @@ Mobile Legends é um jogo de batalha online em arena (MOBA) para dispositivos m�
 
 O algoritmo desenvolvido neste projeto utiliza uma abordagem baseada em counters para sugerir os melhores heróis para os jogadores escolherem em Mobile Legends. A partir de uma tabela do Excel, ele analisa os heróis selecionados e banidos pelos times adversários durante a fase de Picks & Bans e identifica os heróis que têm habilidades e estratégias eficazes contra esses heróis. Com base nessa análise, o algoritmo fornece ao usuário uma lista de heróis recomendados que têm uma vantagem tática contra os heróis selecionados e banidos pelos adversários.
 
-O algoritmo é implementado em Python e pode ser executado diretamente no terminal. Infelizmente não possui interface gráfica.
+O algoritmo é implementado em Python e deve ser executado diretamente no terminal. Infelizmente não possui uma interface gráfica.
 
 ## Atualizações
 
